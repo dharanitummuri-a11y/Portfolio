@@ -1,10 +1,10 @@
-# 👨‍💻 Ananthula Harish Goud - Portfolio
+# 👨‍💻 Dharani Tummuri - Portfolio
 
 Welcome to my personal portfolio website 🚀  
 This portfolio showcases my skills, projects, and certifications.
 
 🔗 **Live Website:**  
-https://ananthulaharishgoud.github.io/portfolio/
+https://dharanitummuri-a11y.github.io/Portfolio/
 
 ---
 
